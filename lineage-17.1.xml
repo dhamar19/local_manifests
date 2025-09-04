@@ -63,7 +63,7 @@
 
  <!-- Galaxy A3
   <project path="device/samsung/a3-common" name="Galaxy-MSM8916/android_device_samsung_a3-common" groups="device" remote="Galaxy-MSM8916"/>
-  <project path="device/samsung/a3lte" name="Galaxy-MSM8916/android_device_samsung_a3lte" groups="device" remote="Galaxy-MSM8916"/>  -->
+  <project path="device/samsung/a3lte" name="Galaxy-MSM8916/android_device_samsung_a3lte" groups="device" remote="Galaxy-MSM8916"/>  
   <project path="device/samsung/a3ulte" name="Galaxy-MSM8916/android_device_samsung_a3ulte" groups="device" remote="Galaxy-MSM8916"/>
   <!-- <project path="device/samsung/a33g" name="Galaxy-MSM8916/android_device_samsung_a33g" groups="device" remote="Galaxy-MSM8916"/>  -->
 
@@ -88,34 +88,34 @@
   <project path="device/samsung/gt510wifi" name="Galaxy-MSM8916/android_device_samsung_gt510wifi" groups="device" remote="Galaxy-MSM8916"/>
   <project path="device/samsung/gt510lte" name="Galaxy-MSM8916/android_device_samsung_gt510lte" groups="device" remote="Galaxy-MSM8916"/> -->
 
- <!-- Galaxy J3 -->
+ <!-- Galaxy J3 
   <project path="device/samsung/j3-common" name="Galaxy-MSM8916/android_device_samsung_j3-common" groups="device" remote="Galaxy-MSM8916"/>
-  <project path="device/samsung/j3ltectc" name="Galaxy-MSM8916/android_device_samsung_j3ltectc" groups="device" remote="Galaxy-MSM8916"/>
+  <project path="device/samsung/j3ltectc" name="Galaxy-MSM8916/android_device_samsung_j3ltectc" groups="device" remote="Galaxy-MSM8916"/> -->
 
- <!-- Galaxy J3 Pro -->
-  <project path="device/samsung/j3xprolte" name="Galaxy-MSM8916/android_device_samsung_j3xprolte" groups="device" remote="Galaxy-MSM8916"/>
+ <!-- Galaxy J3 Pro
+  <project path="device/samsung/j3xprolte" name="Galaxy-MSM8916/android_device_samsung_j3xprolte" groups="device" remote="Galaxy-MSM8916"/> -->
 
- <!-- Galaxy J5 (2015) -->
+ <!-- Galaxy J5 (2015) 
   <project path="device/samsung/j5-common" name="Galaxy-MSM8916/android_device_samsung_j5-common" groups="device" remote="Galaxy-MSM8916"/>
-  <project path="device/samsung/j53gxx" name="Galaxy-MSM8916/android_device_samsung_j53gxx" groups="device" remote="Galaxy-MSM8916"/>
+  <project path="device/samsung/j53gxx" name="Galaxy-MSM8916/android_device_samsung_j53gxx" groups="device" remote="Galaxy-MSM8916"/> -->
   <project path="device/samsung/j5lte" name="Galaxy-MSM8916/android_device_samsung_j5lte" groups="device" remote="Galaxy-MSM8916"/>
-  <project path="device/samsung/j5ltechn" name="Galaxy-MSM8916/android_device_samsung_j5ltechn" groups="device" remote="Galaxy-MSM8916"/>
-  <project path="device/samsung/j5nlte" name="Galaxy-MSM8916/android_device_samsung_j5nlte" groups="device" remote="Galaxy-MSM8916"/>
+  <!-- <project path="device/samsung/j5ltechn" name="Galaxy-MSM8916/android_device_samsung_j5ltechn" groups="device" remote="Galaxy-MSM8916"/>
+  <project path="device/samsung/j5nlte" name="Galaxy-MSM8916/android_device_samsung_j5nlte" groups="device" remote="Galaxy-MSM8916"/> -->
 
- <!-- Galaxy J5 (2016) -->
+ <!-- Galaxy J5 (2016) 
   <project path="device/samsung/j5x-common" name="Galaxy-MSM8916/android_device_samsung_j5x-common" groups="device" remote="Galaxy-MSM8916"/>
   <project path="device/samsung/j5xnlte" name="Galaxy-MSM8916/android_device_samsung_j5xnlte" groups="device" remote="Galaxy-MSM8916"/>
-  <project path="device/samsung/j5xltecmcc" name="Galaxy-MSM8916/android_device_samsung_j5xltecmcc" groups="device" remote="Galaxy-MSM8916"/>
+  <project path="device/samsung/j5xltecmcc" name="Galaxy-MSM8916/android_device_samsung_j5xltecmcc" groups="device" remote="Galaxy-MSM8916"/> -->
 
  <!-- Galaxy On7
   <project path="device/samsung/o7-common" name="Galaxy-MSM8916/android_device_samsung_o7-common" groups="device" remote="Galaxy-MSM8916"/>
   <project path="device/samsung/o7prolte" name="Galaxy-MSM8916/android_device_samsung_o7prolte" groups="device" remote="Galaxy-MSM8916"/>
   <project path="device/samsung/on7ltechn" name="Galaxy-MSM8916/android_device_samsung_on7ltechn" groups="device" remote="Galaxy-MSM8916"/> -->
 
- <!-- Galaxy J7 -->
+ <!-- Galaxy J7 
   <project path="device/samsung/j7lte-common" name="Galaxy-MSM8916/android_device_samsung_j7lte-common" groups="device" remote="Galaxy-MSM8916"/>
   <project path="device/samsung/j7ltespr" name="Galaxy-MSM8916/android_device_samsung_j7ltespr" groups="device" remote="Galaxy-MSM8916"/>
-  <project path="device/samsung/j7ltechn" name="Galaxy-MSM8916/android_device_samsung_j7ltechn" groups="device" remote="Galaxy-MSM8916"/>
+  <project path="device/samsung/j7ltechn" name="Galaxy-MSM8916/android_device_samsung_j7ltechn" groups="device" remote="Galaxy-MSM8916"/> -->
 
  <!-- Galaxy S4 Mini 
   <project path="device/samsung/serranovexx-common" name="Galaxy-MSM8916/android_device_samsung_serranovexx-common" groups="device" remote="Galaxy-MSM8916"/>
